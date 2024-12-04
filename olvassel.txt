@@ -1,0 +1,10 @@
+﻿Az oldal készítője: Katona Zétény
+A weboldal elérhetősége: https://katonazeti.github.io/kanazeteny/
+Az oldal egy Real Madrid szurkolói oldal.
+A jegyvásárlási oldalon a különböző típúsú jegyek darabszámából JS segítségével kiszámolható a kosár értéke.
+Minden oldal a google Abril Fatface fontot használja.
+Az oldalon az új form elemek a jegyvásárlási oldalon és a hírlevél feliratkozásnál szerepelnek.
+Az esemény kiválasztása egy datalist - list.
+A dátum megadása date típúsú.
+A hírvevélben pedig az email cím email típúsú.
+
